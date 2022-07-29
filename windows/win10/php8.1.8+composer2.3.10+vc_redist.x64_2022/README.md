@@ -2,7 +2,7 @@
 
 ## php-8.1.8(with vc_redist) and composer 2.3.10
 
-Press "Windows" button, search Powershell, Right click Windows PowerShell, Run as administrator, Yes.  
+Press "Windows" button, search Powershell, Right click Windows PowerShell, <div style="color: green">Run as administrator</div>, Yes.  
 Copy the command, go to PowerShell, right click the PowerShell (means paste), Press Enter to run the command.  
 
 ```
