@@ -1,6 +1,6 @@
 # 1-command-install
 
-## php-8.1.8(with vc_redist) and composer 2.3.10
+## php-8.0.21(with vc_redist) and composer 2.3.10
 
 Press "Windows" button, search Powershell, Right click Windows PowerShell, <b>Run as administrator</b>, Yes.  
 Copy the command, go to PowerShell, right click the PowerShell (means paste), Press Enter to run the command.  
@@ -11,8 +11,8 @@ cd $env:TEMP;Invoke-WebRequest https://github.com/techdesignism/1-command-instal
 
 Source files:  
 
-php-8.1.8-Win32-vs16-x64.zip  
-https://windows.php.net/downloads/releases/php-8.1.8-Win32-vs16-x64.zip
+php-8.0.21-Win32-vs16-x64.zip  
+https://windows.php.net/downloads/releases/php-8.0.21-Win32-vs16-x64.zip
 
 installer  
 https://getcomposer.org/installer
